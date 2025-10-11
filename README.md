@@ -19,7 +19,8 @@ Splunk, Sysmon, Windows Event Viewer, PowerShell, VirtualBox, Kali Linux
 
 ### Screenshots
 **Splunk Enterprise Interface**  
-![Splunk Enterprise Interface](screenshots/splunk_home.png)
+![Splunk Enterprise Interface](<img width="1918" height="865" alt="splunk_home" src="https://github.com/user-attachments/assets/47dedc28-aac2-45df-bf93-a2269b00cf95" />)
+
 
 **Listener Verification (TCP 9997)**  
 ![Listener Verification](screenshots/port_9997_listening.png)
