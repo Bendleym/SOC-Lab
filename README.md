@@ -23,7 +23,8 @@ Splunk, Sysmon, Windows Event Viewer, PowerShell, VirtualBox, Kali Linux
 
 
 **Listener Verification (TCP 9997)**  
-![Listener Verification](screenshots/port_9997_listening.png)
+![Listener Verification] <img width="915" height="679" alt="port_9997_listening" src="https://github.com/user-attachments/assets/ca8b0d16-cf85-4562-b057-9d2670bd1dec" />
+
 
 **SOC Monitoring Dashboard**  
 ![SOC Monitoring Dashboard](screenshots/soc_dashboard.png)
