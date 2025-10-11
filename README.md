@@ -19,19 +19,19 @@ Splunk, Sysmon, Windows Event Viewer, PowerShell, VirtualBox, Kali Linux
 
 ### Screenshots
 **Splunk Enterprise Interface**  
-![Splunk Enterprise Interface]<img width="1918" height="865" alt="splunk_home" src="https://github.com/user-attachments/assets/47dedc28-aac2-45df-bf93-a2269b00cf95" />
+<img width="1918" height="865" alt="splunk_home" src="https://github.com/user-attachments/assets/47dedc28-aac2-45df-bf93-a2269b00cf95" />
 
 
 **Listener Verification (TCP 9997)**  
-![Listener Verification] <img width="915" height="679" alt="port_9997_listening" src="https://github.com/user-attachments/assets/ca8b0d16-cf85-4562-b057-9d2670bd1dec" />
+<img width="915" height="679" alt="port_9997_listening" src="https://github.com/user-attachments/assets/ca8b0d16-cf85-4562-b057-9d2670bd1dec" />
 
 
 **SOC Monitoring Dashboard**  
-![SOC Monitoring Dashboard]<img width="901" height="577" alt="soc_dashboard" src="https://github.com/user-attachments/assets/c759b9a8-3fbe-4c7a-bc6f-3a14670dfa34" />
+<img width="901" height="577" alt="soc_dashboard" src="https://github.com/user-attachments/assets/c759b9a8-3fbe-4c7a-bc6f-3a14670dfa34" />
 
 
 **Brute Force Alert**  
-![Brute Force Alert]<img width="914" height="377" alt="brute_force_alert" src="https://github.com/user-attachments/assets/dcc33501-1bc2-42d8-8c3c-f02adbdd076d" />
+<img width="914" height="377" alt="brute_force_alert" src="https://github.com/user-attachments/assets/dcc33501-1bc2-42d8-8c3c-f02adbdd076d" />
 
 
 **Windows Forwarder Service**  
