@@ -18,7 +18,20 @@ Splunk, Sysmon, Windows Event Viewer, PowerShell, VirtualBox, Kali Linux
 - Documented full setup and architecture diagrams
 
 ### Screenshots
-*(Add your dashboard and configuration screenshots here)*
+**Splunk Enterprise Interface**  
+![Splunk Enterprise Interface](screenshots/splunk_home.png)
+
+**Listener Verification (TCP 9997)**  
+![Listener Verification](screenshots/port_9997_listening.png)
+
+**SOC Monitoring Dashboard**  
+![SOC Monitoring Dashboard](screenshots/soc_dashboard.png)
+
+**Brute Force Alert**  
+![Brute Force Alert](screenshots/brute_force_alert.png)
+
+**Windows Forwarder Service**  
+![Windows Forwarder Service](screenshots/forwarder_service.png)
 
 ### Next Steps
 Plan to integrate Suricata or Security Onion for network traffic visibility.
