@@ -27,13 +27,16 @@ Splunk, Sysmon, Windows Event Viewer, PowerShell, VirtualBox, Kali Linux
 
 
 **SOC Monitoring Dashboard**  
-![SOC Monitoring Dashboard](screenshots/soc_dashboard.png)
+![SOC Monitoring Dashboard]<img width="901" height="577" alt="soc_dashboard" src="https://github.com/user-attachments/assets/c759b9a8-3fbe-4c7a-bc6f-3a14670dfa34" />
+
 
 **Brute Force Alert**  
-![Brute Force Alert](screenshots/brute_force_alert.png)
+![Brute Force Alert]<img width="914" height="377" alt="brute_force_alert" src="https://github.com/user-attachments/assets/dcc33501-1bc2-42d8-8c3c-f02adbdd076d" />
+
 
 **Windows Forwarder Service**  
-![Windows Forwarder Service](screenshots/forwarder_service.png)
+![Windows Forwarder Service]<img width="825" height="579" alt="forwarder_service" src="https://github.com/user-attachments/assets/5d4043c2-41b6-4675-9f2c-f10baafcff48" />
+
 
 ### Next Steps
 Plan to integrate Suricata or Security Onion for network traffic visibility.
