@@ -35,7 +35,7 @@ Splunk, Sysmon, Windows Event Viewer, PowerShell, VirtualBox, Kali Linux
 
 
 **Windows Forwarder Service**  
-![Windows Forwarder Service]<img width="825" height="579" alt="forwarder_service" src="https://github.com/user-attachments/assets/5d4043c2-41b6-4675-9f2c-f10baafcff48" />
+<img width="825" height="579" alt="forwarder_service" src="https://github.com/user-attachments/assets/5d4043c2-41b6-4675-9f2c-f10baafcff48" />
 
 
 ### Next Steps
