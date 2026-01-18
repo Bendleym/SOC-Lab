@@ -40,7 +40,7 @@ Security Onion, Zeek, Suricata, PCAP analysis, Splunk (supplemental SIEM monitor
 <img width="915" height="679" alt="port_9997_listening" src="https://github.com/user-attachments/assets/ca8b0d16-cf85-4562-b057-9d2670bd1dec" />
 
 **SOC Monitoring Dashboard**  
-<img width="901" height="577" alt="soc_dashboard" src="https://github.com/user-attachments/assets/c759b9a8-3f4c-4c7a-bc6f-3a14670dfa34" />
+<img width="901" height="577" alt="soc_dashboard" src="https://github.com/user-attachments/assets/c759b9a8-3fbe-4c7a-bc6f-3a14670dfa34" />
 
 **Brute Force Alert**  
 <img width="914" height="377" alt="brute_force_alert" src="https://github.com/user-attachments/assets/dcc33501-1bc2-42d8-8c3c-f02adbdd076d" />
